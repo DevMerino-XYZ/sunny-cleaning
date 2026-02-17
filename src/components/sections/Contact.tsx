@@ -21,7 +21,7 @@ export default function Contact() {
   }
 
   return (
-    <section id="contact" className="py-24 bg-white">
+    <section id="contact" className="pt-28 pb-20 bg-gradient-to-b from-sky-50 to-white">
       <div className="max-w-6xl mx-auto px-4">
         <SectionHeading
           title="Get Your Free Estimate"

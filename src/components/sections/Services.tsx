@@ -11,7 +11,7 @@ import "swiper/css";
 
 export default function Services() {
   return (
-    <section id="services" className="py-24 bg-sky-50">
+    <section id="services" className="pt-28 pb-20 bg-gradient-to-b from-sky-50 to-white">
       <div className="max-w-7xl mx-auto px-4">
 
         <SectionHeading

@@ -8,7 +8,7 @@ export default function Features() {
   return (
     <section
       id="features"
-      className="py-24 bg-gradient-to-b from-white to-sky-50"
+      className="pt-28 pb-20 bg-gradient-to-b from-sky-50 to-white"
     >
       <div className="max-w-6xl mx-auto px-4">
         <SectionHeading
