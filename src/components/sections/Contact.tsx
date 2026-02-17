@@ -62,12 +62,6 @@ export default function Contact() {
               </div>
             </div>
 
-            <div className="text-sm text-gray-500">
-              ✔ Free Estimates <br />
-              ✔ Satisfaction Guaranteed <br />
-              ✔ We Bring Our Own Equipment
-            </div>
-
           </div>
 
           {/* RIGHT SIDE - FORM */}

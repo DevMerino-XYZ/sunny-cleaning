@@ -23,4 +23,30 @@ export const testimonials = [
     rating: 5,
     text: "Affordable, reliable, and extremely thorough. The team arrived on time and exceeded my expectations. My apartment hasn’t looked this clean in years. I’m now scheduling regular cleanings!",
   },
+
+  // NUEVOS
+  {
+    id: "daniel",
+    name: "Daniel Martinez",
+    role: "Father of 3",
+    image: "/img/testimonials/self.avif",
+    rating: 5,
+    text: "With kids and pets at home it’s almost impossible to keep everything clean. Sunny’s team handled it perfectly. The house smelled fresh and felt comfortable again. My wife was extremely happy — we are now regular customers.",
+  },
+  {
+    id: "rebecca",
+    name: "Rebecca Turner",
+    role: "Realtor",
+    image: "/img/testimonials/self.avif",
+    rating: 5,
+    text: "I’ve worked with many cleaning companies preparing houses for sale, and Sunny’s is by far the most consistent. They make properties show-ready every time and my clients always notice the difference.",
+  },
+  {
+    id: "kevin",
+    name: "Kevin Brooks",
+    role: "Move-Out Client",
+    image: "/img/testimonials/self.avif",
+    rating: 5,
+    text: "I needed a last-minute move-out cleaning and they saved me. The landlord returned my full deposit thanks to how clean the place was. Fast response and excellent work.",
+  },
 ];
