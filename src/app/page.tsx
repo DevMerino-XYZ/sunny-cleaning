@@ -5,6 +5,7 @@ import Features from "@/components/sections/Features";
 import Testimonials from "@/components/sections/Testimonials";
 import FloatingCall from "@/components/ui/FloatingCall";
 import Contact from "@/components/sections/Contact";
+import Footer from "@/components/sections/Footer";
 
 export default function Home() {
   return (
@@ -16,6 +17,8 @@ export default function Home() {
       <Testimonials />
       <FloatingCall />
       <Contact />
+      <Footer />
+    
     </main>
   );
 }
