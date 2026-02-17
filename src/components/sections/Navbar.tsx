@@ -72,7 +72,7 @@ export default function Navbar() {
           className="flex items-center gap-2"
         >
           <Image
-            src="/img/logo.png"
+            src="/logo2.png"
             alt="Sunny's Cleaning Logo"
             width={200}
             height={50}
